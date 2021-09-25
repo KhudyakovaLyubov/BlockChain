@@ -1,0 +1,10 @@
+C:\Users\lyubo\source\repos\BlockChain\BlockChain\bin\Debug\BlockChain.exe.config
+C:\Users\lyubo\source\repos\BlockChain\BlockChain\bin\Debug\BlockChain.exe
+C:\Users\lyubo\source\repos\BlockChain\BlockChain\bin\Debug\BlockChain.pdb
+C:\Users\lyubo\source\repos\BlockChain\BlockChain\obj\Debug\BlockChain.csproj.AssemblyReference.cache
+C:\Users\lyubo\source\repos\BlockChain\BlockChain\obj\Debug\BlockChain.Properties.Resources.resources
+C:\Users\lyubo\source\repos\BlockChain\BlockChain\obj\Debug\BlockChain.csproj.GenerateResource.cache
+C:\Users\lyubo\source\repos\BlockChain\BlockChain\obj\Debug\BlockChain.csproj.CoreCompileInputs.cache
+C:\Users\lyubo\source\repos\BlockChain\BlockChain\obj\Debug\BlockChain.exe
+C:\Users\lyubo\source\repos\BlockChain\BlockChain\obj\Debug\BlockChain.pdb
+C:\Users\lyubo\source\repos\BlockChain\BlockChain\obj\Debug\BlockChain.Form1.resources
